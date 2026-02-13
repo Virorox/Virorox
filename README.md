@@ -1,16 +1,14 @@
-## Hi there 👋
+### Nice to meet you! 👋
 
-<!--
-**Virorox/Virorox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 I’m currently learning AI
+- 📊 I’m looking to collaborate on Data Science
+- 💬 Ask me about the Economy, Politics, Languages
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: 🇪🇺 German :colombia: Colombian
+- 🤵 About me: Single, without children
+- 🗣️ Languages: 🇬🇧 English, 🇪🇸 Spanish, 🇮🇹 Italian, 🇫🇷 French, &#127465;&#127466; German
+- 🌐 I have worked in: Bogota, Munich, Geneva
+- 🏛️ Past employers: South Carolina Europe Office, Baker Mckenzie, Procolombia, WTO, Ministry of Foreign Affairs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Virorox/Virorox)
