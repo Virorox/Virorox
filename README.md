@@ -14,5 +14,5 @@
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Virorox/Virorox)
 
 ✍️ Actividad reciente: 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
