@@ -12,3 +12,7 @@
 - 🏛️ Past employers: South Carolina Europe Office, Baker Mckenzie, Procolombia, WTO, Colombian Ministry of Foreign Affairs
 
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Virorox/Virorox)
+
+✍️ Actividad reciente: 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
