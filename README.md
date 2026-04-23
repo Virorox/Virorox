@@ -16,4 +16,6 @@
 ## 🕒 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [Virorox/cookiecutter-data-science](https://github.com/Virorox/cookiecutter-data-science) from [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science)<br>
+2. 🔱 Forked [Virorox/cookiecutter-conda-data-science](https://github.com/Virorox/cookiecutter-conda-data-science) from [jvelezmagic/cookiecutter-conda-data-science](https://github.com/jvelezmagic/cookiecutter-conda-data-science)<br>
 <!--RECENT_ACTIVITY:end-->
